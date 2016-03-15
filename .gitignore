@@ -1,4 +1,6 @@
 *.draft
-bin
-lib
+bin/
+lib/
+include/
+
 
